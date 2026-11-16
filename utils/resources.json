@@ -1,21 +1,16 @@
 [
   {
-    "name": "MacBook Proled XDR 14\"",
-    "description": "Latest release from Apple with M5 Pro chip!",
-    "location": "Apple Stores",
-    "owner": "Cupertino..."
-  },
-  {
-    "name": "MacBook Proled XDR 16\"",
-    "description": "Latest release from Apple with M5 Max chip!",
-    "location": "Apple Stores",
-    "owner": "Cupertino..."
-  },
-  {
     "name": "LG 55 inch TV",
     "location": "Classroom ",
     "description": "For lectures",
-    "owner": "tp@edu.sg",
+    "owner": "iit@tp.edu.sg",
     "id": "1793335187606195"
+  },
+  {
+    "name": "MacBook Proled XDR 14",
+    "location": "Allen Cupboard",
+    "description": "Latest Pro MacBook with OLED screen",
+    "owner": "tanallen@tp.edu.sg",
+    "id": "1794827432624251"
   }
 ]
